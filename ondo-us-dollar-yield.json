@@ -1,0 +1,30 @@
+[
+    {
+    "id": "ondo-us-dollar-yield",
+    "symbol": "usdy",
+    "name": "Ondo US Dollar Yield",
+    "image": "https://coin-images.coingecko.com/coins/images/31700/large/usdy_%281%29.png?1696530524",
+    "current_price": 1.13,
+    "market_cap": 1321169398,
+    "market_cap_rank": 58,
+    "fully_diluted_valuation": 2129503445,
+    "total_volume": 209994,
+    "high_24h": 1.14,
+    "low_24h": 1.12,
+    "price_change_24h": 0.00895034,
+    "price_change_percentage_24h": 0.79738,
+    "market_cap_change_24h": 10436636,
+    "market_cap_change_percentage_24h": 0.79624,
+    "circulating_supply": 1168645960.36774,
+    "total_supply": 1883661249.71904,
+    "max_supply": null,
+    "ath": 1.26,
+    "ath_change_percentage": -10.51497,
+    "ath_date": "2024-03-27T05:24:08.110Z",
+    "atl": 0.934184,
+    "atl_change_percentage": 20.98659,
+    "atl_date": "2024-01-14T11:40:50.825Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:42.945Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+     {
+    "id": "pi-network",
+    "symbol": "pi",
+    "name": "Pi Network",
+    "image": "https://coin-images.coingecko.com/coins/images/54342/large/pi_network.jpg?1739347576",
+    "current_price": 0.175055,
+    "market_cap": 1785814152,
+    "market_cap_rank": 46,
+    "fully_diluted_valuation": 2747406387,
+    "total_volume": 31112369,
+    "high_24h": 0.188547,
+    "low_24h": 0.171015,
+    "price_change_24h": -0.00694148815197784,
+    "price_change_percentage_24h": -3.81408,
+    "market_cap_change_24h": -63921180.4974756,
+    "market_cap_change_percentage_24h": -3.45569,
+    "circulating_supply": 10192193055.9657,
+    "total_supply": 15680297009.1779,
+    "max_supply": 100000000000,
+    "ath": 2.99,
+    "ath_change_percentage": -94.19131,
+    "ath_date": "2025-02-26T16:41:03.732Z",
+    "atl": 0.131244,
+    "atl_change_percentage": 32.22805,
+    "atl_date": "2026-02-11T17:06:46.605Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:44.676Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+    "id": "canton-network",
+    "symbol": "cc",
+    "name": "Canton",
+    "image": "https://coin-images.coingecko.com/coins/images/70468/large/Canton-Ticker_%281%29.png?1762826299",
+    "current_price": 0.147491,
+    "market_cap": 5654351806,
+    "market_cap_rank": 22,
+    "fully_diluted_valuation": 5654351806,
+    "total_volume": 5264779,
+    "high_24h": 0.149993,
+    "low_24h": 0.145166,
+    "price_change_24h": -0.00250197178905751,
+    "price_change_percentage_24h": -1.66806,
+    "market_cap_change_24h": -94531616.3819809,
+    "market_cap_change_percentage_24h": -1.64435,
+    "circulating_supply": 38336840122.8893,
+    "total_supply": 38336840122.8893,
+    "max_supply": null,
+    "ath": 0.194152,
+    "ath_change_percentage": -24.04903,
+    "ath_date": "2026-02-03T08:02:08.411Z",
+    "atl": 0.059024,
+    "atl_change_percentage": 149.83048,
+    "atl_date": "2025-12-06T10:32:09.784Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:46.038Z"
+  }
+]

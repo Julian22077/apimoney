@@ -1,0 +1,30 @@
+[
+    {
+    "id": "eutbl",
+    "symbol": "eutbl",
+    "name": "Spiko EU T-Bills Money Market Fund",
+    "image": "https://coin-images.coingecko.com/coins/images/39657/large/EUTBL.png?1723517425",
+    "current_price": 1.24,
+    "market_cap": 1011642018,
+    "market_cap_rank": 69,
+    "fully_diluted_valuation": 1011642018,
+    "total_volume": 0,
+    "high_24h": 1.24,
+    "low_24h": 1.24,
+    "price_change_24h": -0.000080063772395889,
+    "price_change_percentage_24h": -0.00648,
+    "market_cap_change_24h": -65509.5932298899,
+    "market_cap_change_percentage_24h": -0.00648,
+    "circulating_supply": 818217669.1085,
+    "total_supply": 818217669.1085,
+    "max_supply": null,
+    "ath": 1.26,
+    "ath_change_percentage": -1.9524,
+    "ath_date": "2026-01-27T21:00:08.465Z",
+    "atl": 1.011,
+    "atl_change_percentage": 22.3021,
+    "atl_date": "2024-08-15T09:45:23.684Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:50:14.603Z"
+  }
+]

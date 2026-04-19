@@ -1,0 +1,34 @@
+[
+    {
+    "id": "beldex",
+    "symbol": "bdx",
+    "name": "Beldex",
+    "image": "https://coin-images.coingecko.com/coins/images/5111/large/Beldex.png?1696505631",
+    "current_price": 0.08001,
+    "market_cap": 619089476,
+    "market_cap_rank": 91,
+    "fully_diluted_valuation": 795082030,
+    "total_volume": 12078757,
+    "high_24h": 0.080299,
+    "low_24h": 0.079787,
+    "price_change_24h": 0.00008888,
+    "price_change_percentage_24h": 0.1112,
+    "market_cap_change_24h": 680936,
+    "market_cap_change_percentage_24h": 0.11011,
+    "circulating_supply": 7737608241.36234,
+    "total_supply": 9937227991.84645,
+    "max_supply": null,
+    "ath": 0.450785,
+    "ath_change_percentage": -82.24822,
+    "ath_date": "2018-12-17T00:00:00.000Z",
+    "atl": 0.00027519,
+    "atl_change_percentage": 28979.4068,
+    "atl_date": "2019-11-01T11:05:12.090Z",
+    "roi": {
+      "times": -0.679958221389534,
+      "currency": "usd",
+      "percentage": -67.9958221389534
+    },
+    "last_updated": "2026-04-19T01:58:44.191Z"
+  }
+]

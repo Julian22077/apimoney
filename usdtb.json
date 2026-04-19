@@ -1,0 +1,30 @@
+[
+    {
+    "id": "usdtb",
+    "symbol": "usdtb",
+    "name": "USDtb",
+    "image": "https://coin-images.coingecko.com/coins/images/52804/large/76357aa8-4ef7-446c-bad3-a3f944eeec7a.jpeg?1758277468",
+    "current_price": 0.999827,
+    "market_cap": 869197489,
+    "market_cap_rank": 77,
+    "fully_diluted_valuation": 869197489,
+    "total_volume": 16876430,
+    "high_24h": 1.001,
+    "low_24h": 0.999551,
+    "price_change_24h": -0.000052899976037524,
+    "price_change_percentage_24h": -0.00529,
+    "market_cap_change_24h": -7809.72846603394,
+    "market_cap_change_percentage_24h": -0.0009,
+    "circulating_supply": 869347988.596183,
+    "total_supply": 869347988.596183,
+    "max_supply": null,
+    "ath": 1.057,
+    "ath_change_percentage": -5.40988,
+    "ath_date": "2025-09-20T13:20:33.315Z",
+    "atl": 0.900502,
+    "atl_change_percentage": 11.03059,
+    "atl_date": "2025-07-17T08:05:52.672Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:44.463Z"
+  }
+]

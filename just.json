@@ -1,0 +1,30 @@
+[
+    {
+    "id": "just",
+    "symbol": "jst",
+    "name": "JUST",
+    "image": "https://coin-images.coingecko.com/coins/images/11095/large/JUST.jpg?1696511035",
+    "current_price": 0.069043,
+    "market_cap": 589868249,
+    "market_cap_rank": 96,
+    "fully_diluted_valuation": 589868249,
+    "total_volume": 32119653,
+    "high_24h": 0.071729,
+    "low_24h": 0.068718,
+    "price_change_24h": -0.000553734167950112,
+    "price_change_percentage_24h": -0.79563,
+    "market_cap_change_24h": -6088326.41623163,
+    "market_cap_change_percentage_24h": -1.02161,
+    "circulating_supply": 8543770511.31274,
+    "total_supply": 8543770511.31274,
+    "max_supply": 9900000000,
+    "ath": 0.193254,
+    "ath_change_percentage": -64.41449,
+    "ath_date": "2021-04-05T04:34:23.454Z",
+    "atl": 0.00476275,
+    "atl_change_percentage": 1343.9244,
+    "atl_date": "2020-05-09T06:08:54.872Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:41.433Z"
+  }
+]

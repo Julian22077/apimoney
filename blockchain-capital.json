@@ -1,0 +1,30 @@
+[
+    {
+    "id": "blockchain-capital",
+    "symbol": "bcap",
+    "name": "Blockchain Capital",
+    "image": "https://coin-images.coingecko.com/coins/images/56040/large/bcap_logo_200.png?1748088291",
+    "current_price": 82.76,
+    "market_cap": 754118306,
+    "market_cap_rank": 81,
+    "fully_diluted_valuation": 754118306,
+    "total_volume": 0,
+    "high_24h": 82.76,
+    "low_24h": 82.76,
+    "price_change_24h": 0,
+    "price_change_percentage_24h": 0,
+    "market_cap_change_24h": 0,
+    "market_cap_change_percentage_24h": 0,
+    "circulating_supply": 9112111,
+    "total_supply": 9112111,
+    "max_supply": null,
+    "ath": 83.06,
+    "ath_change_percentage": -0.36118,
+    "ath_date": "2026-04-07T13:40:12.294Z",
+    "atl": 17.76,
+    "atl_change_percentage": 365.99099,
+    "atl_date": "2025-06-02T20:50:02.462Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:55:09.502Z"
+  }
+]

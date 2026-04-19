@@ -1,0 +1,30 @@
+[
+    {
+    "id": "pepe",
+    "symbol": "pepe",
+    "name": "Pepe",
+    "image": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
+    "current_price": 0.00000378,
+    "market_cap": 1587989753,
+    "market_cap_rank": 52,
+    "fully_diluted_valuation": 1587989753,
+    "total_volume": 308217916,
+    "high_24h": 0.00000397,
+    "low_24h": 0.00000376,
+    "price_change_24h": -1.7367184435e-7,
+    "price_change_percentage_24h": -4.39779,
+    "market_cap_change_24h": -72665589.9313362,
+    "market_cap_change_percentage_24h": -4.37572,
+    "circulating_supply": 420690000000000,
+    "total_supply": 420690000000000,
+    "max_supply": 420690000000000,
+    "ath": 0.00002803,
+    "ath_change_percentage": -86.52998,
+    "ath_date": "2024-12-09T16:30:35.828Z",
+    "atl": 5.5142e-8,
+    "atl_change_percentage": 6746.64024,
+    "atl_date": "2023-04-18T02:14:41.591Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:42.885Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+    "id": "zcash",
+    "symbol": "zec",
+    "name": "Zcash",
+    "image": "https://coin-images.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740",
+    "current_price": 324.36,
+    "market_cap": 5404928636,
+    "market_cap_rank": 23,
+    "fully_diluted_valuation": 5405758790,
+    "total_volume": 349674303,
+    "high_24h": 340.54,
+    "low_24h": 318.83,
+    "price_change_24h": -10.0686319468902,
+    "price_change_percentage_24h": -3.01071,
+    "market_cap_change_24h": -166969477.50196,
+    "market_cap_change_percentage_24h": -2.99664,
+    "circulating_supply": 16663459.5405448,
+    "total_supply": 16666018.9155448,
+    "max_supply": 21000000,
+    "ath": 3191.93,
+    "ath_change_percentage": -89.83818,
+    "ath_date": "2016-10-29T00:00:00.000Z",
+    "atl": 16.08,
+    "atl_change_percentage": 1917.13586,
+    "atl_date": "2024-07-05T04:22:29.321Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:44.484Z"
+  }
+]

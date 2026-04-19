@@ -1,0 +1,30 @@
+[
+    {
+    "id": "bitget-token",
+    "symbol": "bgb",
+    "name": "Bitget Token",
+    "image": "https://coin-images.coingecko.com/coins/images/11610/large/Bitget_logo.png?1736925727",
+    "current_price": 1.86,
+    "market_cap": 1300071062,
+    "market_cap_rank": 61,
+    "fully_diluted_valuation": 1697413042,
+    "total_volume": 22278177,
+    "high_24h": 1.92,
+    "low_24h": 1.85,
+    "price_change_24h": -0.0530904605420559,
+    "price_change_percentage_24h": -2.77908,
+    "market_cap_change_24h": -37168811.0331507,
+    "market_cap_change_percentage_24h": -2.77952,
+    "circulating_supply": 699992035.978791,
+    "total_supply": 913931280.978791,
+    "max_supply": 2000000000,
+    "ath": 8.45,
+    "ath_change_percentage": -78.04393,
+    "ath_date": "2024-12-27T11:41:24.992Z",
+    "atl": 0.0142795,
+    "atl_change_percentage": 12893.16242,
+    "atl_date": "2020-06-25T04:17:05.895Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:41.644Z"
+  }
+]

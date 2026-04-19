@@ -1,0 +1,30 @@
+[
+     {
+    "id": "avalanche-2",
+    "symbol": "avax",
+    "name": "Avalanche",
+    "image": "https://coin-images.coingecko.com/coins/images/12559/large/Avalanche_Circle_RedWhite_Trans.png?1696512369",
+    "current_price": 9.28,
+    "market_cap": 4006352605,
+    "market_cap_rank": 28,
+    "fully_diluted_valuation": 4300205825,
+    "total_volume": 262352885,
+    "high_24h": 9.73,
+    "low_24h": 9.27,
+    "price_change_24h": -0.421388710698405,
+    "price_change_percentage_24h": -4.34207,
+    "market_cap_change_24h": -181915602.897326,
+    "market_cap_change_percentage_24h": -4.34346,
+    "circulating_supply": 431771961.177212,
+    "total_supply": 463441061.177212,
+    "max_supply": 720000000,
+    "ath": 144.96,
+    "ath_change_percentage": -93.60901,
+    "ath_date": "2021-11-21T14:18:56.538Z",
+    "atl": 2.8,
+    "atl_change_percentage": 230.74794,
+    "atl_date": "2020-12-31T13:15:21.540Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:41.864Z"
+  }
+]

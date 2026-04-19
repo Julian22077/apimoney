@@ -1,0 +1,30 @@
+[
+    {
+    "id": "bfusd",
+    "symbol": "bfusd",
+    "name": "BFUSD",
+    "image": "https://coin-images.coingecko.com/coins/images/68227/large/bfusd.png?1755132827",
+    "current_price": 0.999902,
+    "market_cap": 1319867742,
+    "market_cap_rank": 59,
+    "fully_diluted_valuation": 1319867742,
+    "total_volume": 2543456,
+    "high_24h": 1,
+    "low_24h": 0.999588,
+    "price_change_24h": -0.000002561522976841,
+    "price_change_percentage_24h": -0.00026,
+    "market_cap_change_24h": 118854,
+    "market_cap_change_percentage_24h": 0.00901,
+    "circulating_supply": 1320000000,
+    "total_supply": 1320000000,
+    "max_supply": null,
+    "ath": 1.007,
+    "ath_change_percentage": -0.68794,
+    "ath_date": "2025-10-10T21:40:40.468Z",
+    "atl": 0.997035,
+    "atl_change_percentage": 0.29715,
+    "atl_date": "2026-01-24T07:41:41.188Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:45.693Z"
+  }
+]

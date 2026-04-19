@@ -1,0 +1,30 @@
+[
+    {
+    "id": "dexe",
+    "symbol": "dexe",
+    "name": "DeXe",
+    "image": "https://coin-images.coingecko.com/coins/images/12713/large/DEXE_token_logo.png?1696512514",
+    "current_price": 14.77,
+    "market_cap": 688195408,
+    "market_cap_rank": 85,
+    "fully_diluted_valuation": 1420578667,
+    "total_volume": 42944082,
+    "high_24h": 14.7,
+    "low_24h": 12.59,
+    "price_change_24h": 1.85,
+    "price_change_percentage_24h": 14.29372,
+    "market_cap_change_24h": 84998543,
+    "market_cap_change_percentage_24h": 14.09134,
+    "circulating_supply": 46751386.3550099,
+    "total_supply": 96504599.3360945,
+    "max_supply": null,
+    "ath": 32.38,
+    "ath_change_percentage": -54.90779,
+    "ath_date": "2021-03-08T13:29:57.935Z",
+    "atl": 0.671563,
+    "atl_change_percentage": 2074.22365,
+    "atl_date": "2020-11-06T19:31:40.144Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:41.609Z"
+  }
+]

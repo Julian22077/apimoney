@@ -1,0 +1,30 @@
+[
+    {
+    "id": "usd1-wlfi",
+    "symbol": "usd1",
+    "name": "USD1",
+    "image": "https://coin-images.coingecko.com/coins/images/54977/large/USD1_1000x1000_transparent.png?1749297002",
+    "current_price": 0.999969,
+    "market_cap": 4198982705,
+    "market_cap_rank": 26,
+    "fully_diluted_valuation": 4201983066,
+    "total_volume": 740982136,
+    "high_24h": 1.001,
+    "low_24h": 0.999544,
+    "price_change_24h": -0.000386388162755935,
+    "price_change_percentage_24h": -0.03863,
+    "market_cap_change_24h": 4504667,
+    "market_cap_change_percentage_24h": 0.1074,
+    "circulating_supply": 4199735871.88071,
+    "total_supply": 4202736770.88071,
+    "max_supply": null,
+    "ath": 1.025,
+    "ath_change_percentage": -2.41016,
+    "ath_date": "2025-05-12T12:36:39.412Z",
+    "atl": 0.989633,
+    "atl_change_percentage": 1.06033,
+    "atl_date": "2025-10-01T08:51:32.103Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:45.185Z"
+  }
+]

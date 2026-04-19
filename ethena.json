@@ -1,0 +1,30 @@
+[
+    {
+    "id": "ethena",
+    "symbol": "ena",
+    "name": "Ethena",
+    "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
+    "current_price": 0.120152,
+    "market_cap": 1051634199,
+    "market_cap_rank": 68,
+    "fully_diluted_valuation": 1800871978,
+    "total_volume": 144425687,
+    "high_24h": 0.125757,
+    "low_24h": 0.119009,
+    "price_change_24h": -0.00356483638428602,
+    "price_change_percentage_24h": -2.88144,
+    "market_cap_change_24h": -32911591.5027803,
+    "market_cap_change_percentage_24h": -3.0346,
+    "circulating_supply": 8759375000,
+    "total_supply": 15000000000,
+    "max_supply": 15000000000,
+    "ath": 1.52,
+    "ath_change_percentage": -92.12263,
+    "ath_date": "2024-04-11T13:15:15.057Z",
+    "atl": 0.076868,
+    "atl_change_percentage": 55.53289,
+    "atl_date": "2026-04-05T12:50:40.489Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:43.858Z"
+  }
+]

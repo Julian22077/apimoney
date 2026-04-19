@@ -1,0 +1,30 @@
+[
+    {
+    "id": "morpho",
+    "symbol": "morpho",
+    "name": "Morpho",
+    "image": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
+    "current_price": 1.95,
+    "market_cap": 1071680281,
+    "market_cap_rank": 67,
+    "fully_diluted_valuation": 1944945468,
+    "total_volume": 14757362,
+    "high_24h": 1.97,
+    "low_24h": 1.9,
+    "price_change_24h": 0.00477494,
+    "price_change_percentage_24h": 0.24549,
+    "market_cap_change_24h": -78307.9493476152,
+    "market_cap_change_percentage_24h": -0.00731,
+    "circulating_supply": 551007881.165636,
+    "total_supply": 1000000000,
+    "max_supply": 1000000000,
+    "ath": 4.17,
+    "ath_change_percentage": -53.95148,
+    "ath_date": "2025-01-17T12:46:19.818Z",
+    "atl": 0.713151,
+    "atl_change_percentage": 169.29812,
+    "atl_date": "2024-11-25T01:55:43.353Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:42.931Z"
+  }
+]

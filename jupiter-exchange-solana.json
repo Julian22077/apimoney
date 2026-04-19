@@ -1,0 +1,30 @@
+[
+    {
+    "id": "jupiter-exchange-solana",
+    "symbol": "jup",
+    "name": "Jupiter",
+    "image": "https://coin-images.coingecko.com/coins/images/34188/large/jup.png?1704266489",
+    "current_price": 0.177878,
+    "market_cap": 631072698,
+    "market_cap_rank": 88,
+    "fully_diluted_valuation": 1219902061,
+    "total_volume": 20774897,
+    "high_24h": 0.188399,
+    "low_24h": 0.177076,
+    "price_change_24h": -0.00622989835590099,
+    "price_change_percentage_24h": -3.38382,
+    "market_cap_change_24h": -22684252.2945709,
+    "market_cap_change_percentage_24h": -3.46983,
+    "circulating_supply": 3550835739.32,
+    "total_supply": 6863982314.71245,
+    "max_supply": 10000000000,
+    "ath": 2,
+    "ath_change_percentage": -91.10637,
+    "ath_date": "2024-01-31T15:02:47.304Z",
+    "atl": 0.135801,
+    "atl_change_percentage": 30.9812,
+    "atl_date": "2026-02-12T18:35:44.925Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:43.558Z"
+    }
+]

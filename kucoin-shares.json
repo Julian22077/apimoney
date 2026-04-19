@@ -1,0 +1,30 @@
+[
+    {
+    "id": "kucoin-shares",
+    "symbol": "kcs",
+    "name": "KuCoin",
+    "image": "https://coin-images.coingecko.com/coins/images/1047/large/sa9z79.png?1696502152",
+    "current_price": 8.59,
+    "market_cap": 1156903161,
+    "market_cap_rank": 63,
+    "fully_diluted_valuation": 1221340221,
+    "total_volume": 18656574,
+    "high_24h": 8.74,
+    "low_24h": 8.55,
+    "price_change_24h": -0.109080998378465,
+    "price_change_percentage_24h": -1.25371,
+    "market_cap_change_24h": -14656793.5559289,
+    "market_cap_change_percentage_24h": -1.25105,
+    "circulating_supply": 134655021.735567,
+    "total_supply": 142155021.735567,
+    "max_supply": null,
+    "ath": 28.83,
+    "ath_change_percentage": -70.21922,
+    "ath_date": "2021-12-01T15:09:35.541Z",
+    "atl": 0.342863,
+    "atl_change_percentage": 2404.13828,
+    "atl_date": "2019-02-07T00:00:00.000Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:41.515Z"
+  }
+]

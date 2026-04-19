@@ -1,0 +1,30 @@
+[
+    {
+    "id": "ondo-finance",
+    "symbol": "ondo",
+    "name": "Ondo",
+    "image": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
+    "current_price": 0.255994,
+    "market_cap": 1246516196,
+    "market_cap_rank": 62,
+    "fully_diluted_valuation": 2559933359,
+    "total_volume": 52801412,
+    "high_24h": 0.271927,
+    "low_24h": 0.255762,
+    "price_change_24h": -0.013357746376574,
+    "price_change_percentage_24h": -4.95922,
+    "market_cap_change_24h": -65211004.0192366,
+    "market_cap_change_percentage_24h": -4.97138,
+    "circulating_supply": 4869330647,
+    "total_supply": 10000000000,
+    "max_supply": 10000000000,
+    "ath": 2.14,
+    "ath_change_percentage": -88.03854,
+    "ath_date": "2024-12-16T00:36:00.777Z",
+    "atl": 0.082171,
+    "atl_change_percentage": 211.53822,
+    "atl_date": "2024-01-18T12:14:30.524Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:42.750Z"
+  }
+]

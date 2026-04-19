@@ -1,0 +1,30 @@
+[
+    {
+    "id": "render-token",
+    "symbol": "render",
+    "name": "Render",
+    "image": "https://coin-images.coingecko.com/coins/images/11636/large/rndr.png?1696511529",
+    "current_price": 1.76,
+    "market_cap": 911725040,
+    "market_cap_rank": 74,
+    "fully_diluted_valuation": 937667005,
+    "total_volume": 86484608,
+    "high_24h": 1.88,
+    "low_24h": 1.76,
+    "price_change_24h": -0.0969765884645424,
+    "price_change_percentage_24h": -5.22933,
+    "market_cap_change_24h": -50162214.114713,
+    "market_cap_change_percentage_24h": -5.21498,
+    "circulating_supply": 518743261.014074,
+    "total_supply": 533503434.294074,
+    "max_supply": 644245094,
+    "ath": 13.53,
+    "ath_change_percentage": -87.00904,
+    "ath_date": "2024-03-17T16:30:24.636Z",
+    "atl": 0.03665669,
+    "atl_change_percentage": 4696.63329,
+    "atl_date": "2020-06-16T13:22:25.900Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:43.561Z"
+  }
+]

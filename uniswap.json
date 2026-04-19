@@ -1,0 +1,30 @@
+[
+    {
+    "id": "uniswap",
+    "symbol": "uni",
+    "name": "Uniswap",
+    "image": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
+    "current_price": 3.33,
+    "market_cap": 2108298401,
+    "market_cap_rank": 44,
+    "fully_diluted_valuation": 2984196457,
+    "total_volume": 172415987,
+    "high_24h": 3.48,
+    "low_24h": 3.32,
+    "price_change_24h": -0.123154898535578,
+    "price_change_percentage_24h": -3.56798,
+    "market_cap_change_24h": -77817600.4754334,
+    "market_cap_change_percentage_24h": -3.55963,
+    "circulating_supply": 633561603.603751,
+    "total_supply": 896776420.03663,
+    "max_supply": 1000000000,
+    "ath": 44.92,
+    "ath_change_percentage": -92.6101,
+    "ath_date": "2021-05-03T05:25:04.822Z",
+    "atl": 1.03,
+    "atl_change_percentage": 222.21836,
+    "atl_date": "2020-09-17T01:20:38.214Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:42.358Z"
+  }
+]

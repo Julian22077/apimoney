@@ -1,0 +1,30 @@
+[
+    {
+    "id": "ripple-usd",
+    "symbol": "rlusd",
+    "name": "Ripple USD",
+    "image": "https://coin-images.coingecko.com/coins/images/39651/large/RLUSD_200x200_%281%29.png?1727376633",
+    "current_price": 0.999882,
+    "market_cap": 1429774151,
+    "market_cap_rank": 56,
+    "fully_diluted_valuation": 1429774151,
+    "total_volume": 132201390,
+    "high_24h": 1,
+    "low_24h": 0.999781,
+    "price_change_24h": -0.000054525377503611,
+    "price_change_percentage_24h": -0.00545,
+    "market_cap_change_24h": -282855.390203714,
+    "market_cap_change_percentage_24h": -0.01978,
+    "circulating_supply": 1429956965.40725,
+    "total_supply": 1429956965.40725,
+    "max_supply": null,
+    "ath": 1.073,
+    "ath_change_percentage": -6.7992,
+    "ath_date": "2024-12-26T10:45:52.337Z",
+    "atl": 0.962292,
+    "atl_change_percentage": 3.90558,
+    "atl_date": "2024-12-18T04:40:40.880Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:43.980Z"
+  }
+]

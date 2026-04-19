@@ -1,0 +1,30 @@
+[
+    {
+    "id": "cardano",
+    "symbol": "ada",
+    "name": "Cardano",
+    "image": "https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090",
+    "current_price": 0.248485,
+    "market_cap": 9182709647,
+    "market_cap_rank": 15,
+    "fully_diluted_valuation": 11181817920,
+    "total_volume": 367838939,
+    "high_24h": 0.25881,
+    "low_24h": 0.247831,
+    "price_change_24h": -0.00891248606446163,
+    "price_change_percentage_24h": -3.46254,
+    "market_cap_change_24h": -324205105.552559,
+    "market_cap_change_percentage_24h": -3.4102,
+    "circulating_supply": 36954807980.6881,
+    "total_supply": 45000000000,
+    "max_supply": 45000000000,
+    "ath": 3.09,
+    "ath_change_percentage": -91.95037,
+    "ath_date": "2021-09-02T06:00:10.474Z",
+    "atl": 0.01925275,
+    "atl_change_percentage": 1190.64618,
+    "atl_date": "2020-03-13T02:22:55.044Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:46.761Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+    "id": "pump-fun",
+    "symbol": "pump",
+    "name": "Pump.fun",
+    "image": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
+    "current_price": 0.0018611,
+    "market_cap": 1097153540,
+    "market_cap_rank": 65,
+    "fully_diluted_valuation": 1859562114,
+    "total_volume": 45336063,
+    "high_24h": 0.00202807,
+    "low_24h": 0.00185961,
+    "price_change_24h": -0.000138029343694391,
+    "price_change_percentage_24h": -6.90446,
+    "market_cap_change_24h": -83059221.9876895,
+    "market_cap_change_percentage_24h": -7.03765,
+    "circulating_supply": 590000000000,
+    "total_supply": 999989160013.231,
+    "max_supply": 1000000000000,
+    "ath": 0.00881908,
+    "ath_change_percentage": -78.89687,
+    "ath_date": "2025-09-14T16:42:40.248Z",
+    "atl": 0.00157464,
+    "atl_change_percentage": 18.19229,
+    "atl_date": "2026-04-02T13:47:10.932Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:45.487Z"
+  }
+]

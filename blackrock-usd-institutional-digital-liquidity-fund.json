@@ -1,0 +1,30 @@
+[
+    {
+    "id": "blackrock-usd-institutional-digital-liquidity-fund",
+    "symbol": "buidl",
+    "name": "BlackRock USD Institutional Digital Liquidity Fund",
+    "image": "https://coin-images.coingecko.com/coins/images/36291/large/blackrock.png?1711013223",
+    "current_price": 1,
+    "market_cap": 2495154987,
+    "market_cap_rank": 37,
+    "fully_diluted_valuation": 2495154987,
+    "total_volume": 0,
+    "high_24h": 1,
+    "low_24h": 1,
+    "price_change_24h": 0,
+    "price_change_percentage_24h": 0,
+    "market_cap_change_24h": -626995.539999962,
+    "market_cap_change_percentage_24h": -0.02512,
+    "circulating_supply": 2495154986.55045,
+    "total_supply": 2495154986.55045,
+    "max_supply": null,
+    "ath": 1,
+    "ath_change_percentage": 0,
+    "ath_date": "2025-02-12T05:00:10.912Z",
+    "atl": 1,
+    "atl_change_percentage": 0,
+    "atl_date": "2025-02-12T05:45:10.196Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:55:03.194Z"
+  }
+]

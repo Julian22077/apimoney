@@ -1,0 +1,30 @@
+[
+    {
+    "id": "pax-gold",
+    "symbol": "paxg",
+    "name": "PAX Gold",
+    "image": "https://coin-images.coingecko.com/coins/images/9519/large/paxgold.png?1696509604",
+    "current_price": 4777.91,
+    "market_cap": 2358433925,
+    "market_cap_rank": 39,
+    "fully_diluted_valuation": 2358433925,
+    "total_volume": 88442460,
+    "high_24h": 4828.32,
+    "low_24h": 4769.75,
+    "price_change_24h": -48.5224176142019,
+    "price_change_percentage_24h": -1.00535,
+    "market_cap_change_24h": -23902684.3659897,
+    "market_cap_change_percentage_24h": -1.00333,
+    "circulating_supply": 493648.962,
+    "total_supply": 493648.962,
+    "max_supply": null,
+    "ath": 5619.09,
+    "ath_change_percentage": -15.03121,
+    "ath_date": "2026-01-29T06:30:56.612Z",
+    "atl": 1399.64,
+    "atl_change_percentage": 241.12116,
+    "atl_date": "2019-11-18T03:09:35.959Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:46.839Z"
+  }
+]

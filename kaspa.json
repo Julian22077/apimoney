@@ -1,0 +1,30 @@
+[
+    {
+    "id": "kaspa",
+    "symbol": "kas",
+    "name": "Kaspa",
+    "image": "https://coin-images.coingecko.com/coins/images/25751/large/kaspa-icon-exchanges.png?1696524837",
+    "current_price": 0.03419463,
+    "market_cap": 935960173,
+    "market_cap_rank": 73,
+    "fully_diluted_valuation": 935993273,
+    "total_volume": 24373409,
+    "high_24h": 0.03665589,
+    "low_24h": 0.03411258,
+    "price_change_24h": -0.00227141474007483,
+    "price_change_percentage_24h": -6.22885,
+    "market_cap_change_24h": -59939659.8146471,
+    "market_cap_change_percentage_24h": -6.01864,
+    "circulating_supply": 27372055345.5153,
+    "total_supply": 27373023349.1353,
+    "max_supply": 28704026601,
+    "ath": 0.207411,
+    "ath_change_percentage": -83.52906,
+    "ath_date": "2024-08-01T00:40:47.164Z",
+    "atl": 0.00017105,
+    "atl_change_percentage": 19872.30085,
+    "atl_date": "2022-05-26T14:42:59.316Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:42.495Z"
+  }
+]

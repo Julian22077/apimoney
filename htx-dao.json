@@ -1,0 +1,30 @@
+[
+    {
+    "id": "htx-dao",
+    "symbol": "htx",
+    "name": "HTX DAO",
+    "image": "https://coin-images.coingecko.com/coins/images/35491/large/Frame_1321318576.png?1708908626",
+    "current_price": 0.00000181,
+    "market_cap": 1635564809,
+    "market_cap_rank": 51,
+    "fully_diluted_valuation": 1635564809,
+    "total_volume": 9185518,
+    "high_24h": 0.00000181,
+    "low_24h": 0.00000179,
+    "price_change_24h": 1.5611e-8,
+    "price_change_percentage_24h": 0.872,
+    "market_cap_change_24h": 14822392,
+    "market_cap_change_percentage_24h": 0.91454,
+    "circulating_supply": 905707664073578,
+    "total_supply": 905707664073578,
+    "max_supply": 999990000000000,
+    "ath": 0.00000375,
+    "ath_change_percentage": -51.87073,
+    "ath_date": "2024-12-04T00:16:20.770Z",
+    "atl": 8.00816e-7,
+    "atl_change_percentage": 125.46599,
+    "atl_date": "2024-08-05T13:31:33.427Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:43.493Z"
+  }
+]

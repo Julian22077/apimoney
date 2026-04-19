@@ -1,0 +1,30 @@
+[
+    {
+    "id": "janus-henderson-anemoy-treasury-fund",
+    "symbol": "jtrsy",
+    "name": "Janus Henderson Anemoy Treasury Fund",
+    "image": "https://coin-images.coingecko.com/coins/images/70445/large/JTRSY.png?1762078582",
+    "current_price": 1.1,
+    "market_cap": 1517738183,
+    "market_cap_rank": 53,
+    "fully_diluted_valuation": 1517738183,
+    "total_volume": 0,
+    "high_24h": 1.1,
+    "low_24h": 1.1,
+    "price_change_24h": 0,
+    "price_change_percentage_24h": 0,
+    "market_cap_change_24h": 0,
+    "market_cap_change_percentage_24h": 0,
+    "circulating_supply": 1379123826.24674,
+    "total_supply": 1379123826.24674,
+    "max_supply": null,
+    "ath": 1.1,
+    "ath_change_percentage": 0,
+    "ath_date": "2026-04-17T13:40:06.827Z",
+    "atl": 1.085,
+    "atl_change_percentage": 1.45081,
+    "atl_date": "2025-11-13T04:05:05.827Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:55:03.660Z"
+  }
+]

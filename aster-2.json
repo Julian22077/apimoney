@@ -1,0 +1,30 @@
+[
+    {
+    "id": "aster-2",
+    "symbol": "aster",
+    "name": "Aster",
+    "image": "https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782",
+    "current_price": 0.669921,
+    "market_cap": 1647141196,
+    "market_cap_rank": 50,
+    "fully_diluted_valuation": 5240796015,
+    "total_volume": 183662258,
+    "high_24h": 0.694185,
+    "low_24h": 0.663392,
+    "price_change_24h": -0.01501766798107,
+    "price_change_percentage_24h": -2.19256,
+    "market_cap_change_24h": -37341816.4811633,
+    "market_cap_change_percentage_24h": -2.21681,
+    "circulating_supply": 2458559719.12999,
+    "total_supply": 7822529124.59504,
+    "max_supply": 8000000000,
+    "ath": 2.41,
+    "ath_change_percentage": -72.18784,
+    "ath_date": "2025-09-24T11:18:14.634Z",
+    "atl": 0.099713,
+    "atl_change_percentage": 571.84648,
+    "atl_date": "2025-09-17T12:05:36.771Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:45.893Z"
+  }
+]

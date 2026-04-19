@@ -1,0 +1,30 @@
+[
+    {
+    "id": "stable-2",
+    "symbol": "stable",
+    "name": "​​Stable",
+    "image": "https://coin-images.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
+    "current_price": 0.02566828,
+    "market_cap": 562517750,
+    "market_cap_rank": 98,
+    "fully_diluted_valuation": 2566994100,
+    "total_volume": 13078297,
+    "high_24h": 0.02667889,
+    "low_24h": 0.02566029,
+    "price_change_24h": -0.000167612447762748,
+    "price_change_percentage_24h": -0.64876,
+    "market_cap_change_24h": -1612189.11697781,
+    "market_cap_change_percentage_24h": -0.28578,
+    "circulating_supply": 21913480452,
+    "total_supply": 100000000000,
+    "max_supply": 100000000000,
+    "ath": 0.0388874,
+    "ath_change_percentage": -33.95981,
+    "ath_date": "2026-02-27T01:55:43.571Z",
+    "atl": 0.0092214,
+    "atl_change_percentage": 178.49694,
+    "atl_date": "2025-12-24T05:49:32.232Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:45.866Z"
+  }
+]

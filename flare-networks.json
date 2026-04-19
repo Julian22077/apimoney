@@ -1,0 +1,30 @@
+[
+    {
+    "id": "flare-networks",
+    "symbol": "flr",
+    "name": "Flare",
+    "image": "https://coin-images.coingecko.com/coins/images/28624/large/FLR-icon200x200.png?1696527609",
+    "current_price": 0.00816549,
+    "market_cap": 700028086,
+    "market_cap_rank": 84,
+    "fully_diluted_valuation": 861963668,
+    "total_volume": 2486707,
+    "high_24h": 0.00846392,
+    "low_24h": 0.00810135,
+    "price_change_24h": -0.000239411254283312,
+    "price_change_percentage_24h": -2.84847,
+    "market_cap_change_24h": -20457532.7660699,
+    "market_cap_change_percentage_24h": -2.83941,
+    "circulating_supply": 85719407233.5843,
+    "total_supply": 105548643285.809,
+    "max_supply": null,
+    "ath": 0.150073,
+    "ath_change_percentage": -94.57281,
+    "ath_date": "2023-01-10T03:14:05.921Z",
+    "atl": 0.00726058,
+    "atl_change_percentage": 12.17773,
+    "atl_date": "2026-04-07T18:55:08.564Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:49.561Z"
+  }
+]

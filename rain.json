@@ -1,0 +1,30 @@
+[
+    {
+    "id": "rain",
+    "symbol": "rain",
+    "name": "Rain",
+    "image": "https://coin-images.coingecko.com/coins/images/69134/large/Rain_logo_1_.png?1762952191",
+    "current_price": 0.00766811,
+    "market_cap": 3666884578,
+    "market_cap_rank": 31,
+    "fully_diluted_valuation": 8814603864,
+    "total_volume": 11434228,
+    "high_24h": 0.00777704,
+    "low_24h": 0.00738092,
+    "price_change_24h": 0.00024638,
+    "price_change_percentage_24h": 3.3197,
+    "market_cap_change_24h": 116614187,
+    "market_cap_change_percentage_24h": 3.28466,
+    "circulating_supply": 478359363558.511,
+    "total_supply": 1149899377665,
+    "max_supply": 1150000000000,
+    "ath": 0.01090099,
+    "ath_change_percentage": -29.69234,
+    "ath_date": "2026-02-09T16:50:09.904Z",
+    "atl": 0.00222126,
+    "atl_change_percentage": 245.03985,
+    "atl_date": "2025-09-14T08:56:57.416Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:45.859Z"
+  }
+]

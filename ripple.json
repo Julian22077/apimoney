@@ -1,0 +1,30 @@
+[
+    {
+    "id": "ripple",
+    "symbol": "xrp",
+    "name": "XRP",
+    "image": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
+    "current_price": 1.43,
+    "market_cap": 88220261054,
+    "market_cap_rank": 4,
+    "fully_diluted_valuation": 143264715146,
+    "total_volume": 2390529976,
+    "high_24h": 1.48,
+    "low_24h": 1.42,
+    "price_change_24h": -0.0445407705054295,
+    "price_change_percentage_24h": -3.01484,
+    "market_cap_change_24h": -2653345009.14424,
+    "market_cap_change_percentage_24h": -2.91982,
+    "circulating_supply": 61569680267,
+    "total_supply": 99985679023,
+    "max_supply": 100000000000,
+    "ath": 3.65,
+    "ath_change_percentage": -60.70478,
+    "ath_date": "2025-07-18T03:40:53.808Z",
+    "atl": 0.00268621,
+    "atl_change_percentage": 53241.10626,
+    "atl_date": "2014-05-22T00:00:00.000Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:53.080Z"
+  }
+]

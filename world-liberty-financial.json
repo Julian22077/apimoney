@@ -1,0 +1,30 @@
+[
+    {
+    "id": "world-liberty-financial",
+    "symbol": "wlfi",
+    "name": "World Liberty Financial",
+    "image": "https://coin-images.coingecko.com/coins/images/50767/large/wlfi.png?1756438915",
+    "current_price": 0.078475,
+    "market_cap": 2492312330,
+    "market_cap_rank": 38,
+    "fully_diluted_valuation": 7845915240,
+    "total_volume": 46668245,
+    "high_24h": 0.081268,
+    "low_24h": 0.078423,
+    "price_change_24h": -0.00215419700047712,
+    "price_change_percentage_24h": -2.67172,
+    "market_cap_change_24h": -68628676.8434792,
+    "market_cap_change_percentage_24h": -2.67982,
+    "circulating_supply": 31765731004,
+    "total_supply": 100000000000,
+    "max_supply": 100000000000,
+    "ath": 0.331336,
+    "ath_change_percentage": -76.31545,
+    "ath_date": "2025-09-01T12:20:09.597Z",
+    "atl": 0.07726,
+    "atl_change_percentage": 1.57296,
+    "atl_date": "2026-04-11T07:56:04.528Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:49.987Z"
+  }
+]

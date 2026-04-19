@@ -1,0 +1,30 @@
+[
+    {
+    "id": "leo-token",
+    "symbol": "leo",
+    "name": "LEO Token",
+    "image": "https://coin-images.coingecko.com/coins/images/8418/large/leo-token.png?1696508607",
+    "current_price": 10.21,
+    "market_cap": 9401193643,
+    "market_cap_rank": 14,
+    "fully_diluted_valuation": 10058962339,
+    "total_volume": 686278,
+    "high_24h": 10.21,
+    "low_24h": 10.08,
+    "price_change_24h": 0.068062,
+    "price_change_percentage_24h": 0.67118,
+    "market_cap_change_24h": 63476750,
+    "market_cap_change_percentage_24h": 0.67979,
+    "circulating_supply": 920813404.9,
+    "total_supply": 985239504,
+    "max_supply": null,
+    "ath": 10.26,
+    "ath_change_percentage": -1.05029,
+    "ath_date": "2026-04-17T22:10:36.105Z",
+    "atl": 0.799859,
+    "atl_change_percentage": 1168.76195,
+    "atl_date": "2019-12-24T15:14:35.376Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:46.499Z"
+  }
+]

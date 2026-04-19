@@ -1,0 +1,30 @@
+[
+    {
+    "id": "crypto-com-chain",
+    "symbol": "cro",
+    "name": "Cronos",
+    "image": "https://coin-images.coingecko.com/coins/images/7310/large/cro_token_logo.png?1696507599",
+    "current_price": 0.06982,
+    "market_cap": 3037753284,
+    "market_cap_rank": 34,
+    "fully_diluted_valuation": 6878255449,
+    "total_volume": 9362150,
+    "high_24h": 0.071892,
+    "low_24h": 0.069539,
+    "price_change_24h": -0.00193855744449785,
+    "price_change_percentage_24h": -2.70151,
+    "market_cap_change_24h": -84601107.4529185,
+    "market_cap_change_percentage_24h": -2.70953,
+    "circulating_supply": 43530140772.7565,
+    "total_supply": 98563444743.1209,
+    "max_supply": 100000000000,
+    "ath": 0.891544,
+    "ath_change_percentage": -92.18772,
+    "ath_date": "2021-11-24T00:00:00.000Z",
+    "atl": 0.0121196,
+    "atl_change_percentage": 474.68823,
+    "atl_date": "2019-02-08T00:00:00.000Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:46.456Z"
+  }
+]

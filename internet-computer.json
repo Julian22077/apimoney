@@ -1,0 +1,30 @@
+[
+    {
+    "id": "internet-computer",
+    "symbol": "icp",
+    "name": "Internet Computer",
+    "image": "https://coin-images.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180",
+    "current_price": 2.48,
+    "market_cap": 1369399896,
+    "market_cap_rank": 57,
+    "fully_diluted_valuation": 1369399896,
+    "total_volume": 38984730,
+    "high_24h": 2.64,
+    "low_24h": 2.47,
+    "price_change_24h": -0.13526578769563,
+    "price_change_percentage_24h": -5.16962,
+    "market_cap_change_24h": -75180089.4798329,
+    "market_cap_change_percentage_24h": -5.20429,
+    "circulating_supply": 551876961.025206,
+    "total_supply": 551876961.025206,
+    "max_supply": null,
+    "ath": 700.65,
+    "ath_change_percentage": -99.64595,
+    "ath_date": "2021-05-10T16:05:53.653Z",
+    "atl": 2.02,
+    "atl_change_percentage": 22.8954,
+    "atl_date": "2026-02-24T05:35:51.591Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:49.443Z"
+  }
+]

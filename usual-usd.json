@@ -1,0 +1,30 @@
+[
+    {
+    "id": "usual-usd",
+    "symbol": "usd0",
+    "name": "Usual USD",
+    "image": "https://coin-images.coingecko.com/coins/images/38272/large/USD0LOGO.png?1716962811",
+    "current_price": 0.998409,
+    "market_cap": 557646362,
+    "market_cap_rank": 99,
+    "fully_diluted_valuation": 557646362,
+    "total_volume": 583389,
+    "high_24h": 0.998415,
+    "low_24h": 0.998097,
+    "price_change_24h": 0.00025778,
+    "price_change_percentage_24h": 0.02583,
+    "market_cap_change_24h": 117680,
+    "market_cap_change_percentage_24h": 0.02111,
+    "circulating_supply": 558535277.495617,
+    "total_supply": 558535277.495617,
+    "max_supply": null,
+    "ath": 1.33,
+    "ath_change_percentage": -24.68818,
+    "ath_date": "2024-07-12T08:28:59.311Z",
+    "atl": 0.962885,
+    "atl_change_percentage": 3.68929,
+    "atl_date": "2025-04-10T08:30:51.088Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:45.332Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+    "id": "bittensor",
+    "symbol": "tao",
+    "name": "Bittensor",
+    "image": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
+    "current_price": 241.86,
+    "market_cap": 2320056072,
+    "market_cap_rank": 40,
+    "fully_diluted_valuation": 5076449409,
+    "total_volume": 207822158,
+    "high_24h": 257.47,
+    "low_24h": 241.01,
+    "price_change_24h": -11.4221371375761,
+    "price_change_percentage_24h": -4.5097,
+    "market_cap_change_24h": -107269732.053771,
+    "market_cap_change_percentage_24h": -4.41926,
+    "circulating_supply": 9597491,
+    "total_supply": 21000000,
+    "max_supply": 21000000,
+    "ath": 757.6,
+    "ath_change_percentage": -68.18808,
+    "ath_date": "2024-03-07T18:45:36.466Z",
+    "atl": 30.83,
+    "atl_change_percentage": 681.73513,
+    "atl_date": "2023-05-14T08:57:53.732Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:52.254Z"
+  }
+]

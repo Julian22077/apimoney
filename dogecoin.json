@@ -1,0 +1,30 @@
+[
+    {
+    "id": "dogecoin",
+    "symbol": "doge",
+    "name": "Dogecoin",
+    "image": "https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1696501409",
+    "current_price": 0.094989,
+    "market_cap": 14617743971,
+    "market_cap_rank": 10,
+    "fully_diluted_valuation": 16110193749,
+    "total_volume": 1461787685,
+    "high_24h": 0.099478,
+    "low_24h": 0.094438,
+    "price_change_24h": -0.00406929572079878,
+    "price_change_percentage_24h": -4.10797,
+    "market_cap_change_24h": -620846756.0075,
+    "market_cap_change_percentage_24h": -4.07417,
+    "circulating_supply": 153888316383.705,
+    "total_supply": 169600083126.579,
+    "max_supply": null,
+    "ath": 0.731578,
+    "ath_change_percentage": -87.01584,
+    "ath_date": "2021-05-08T05:08:23.458Z",
+    "atl": 0.0000869,
+    "atl_change_percentage": 109204.02362,
+    "atl_date": "2015-05-06T00:00:00.000Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:44.369Z"
+  }
+]

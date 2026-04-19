@@ -1,0 +1,30 @@
+[
+    {
+    "id": "sky",
+    "symbol": "sky",
+    "name": "Sky",
+    "image": "https://coin-images.coingecko.com/coins/images/39925/large/sky.jpg?1724827980",
+    "current_price": 0.075656,
+    "market_cap": 1753443000,
+    "market_cap_rank": 48,
+    "fully_diluted_valuation": 1774258665,
+    "total_volume": 6146174,
+    "high_24h": 0.078366,
+    "low_24h": 0.075489,
+    "price_change_24h": -0.00213216564292658,
+    "price_change_percentage_24h": -2.741,
+    "market_cap_change_24h": -50879181.2714875,
+    "market_cap_change_percentage_24h": -2.81985,
+    "circulating_supply": 23187400332.1533,
+    "total_supply": 23462665147.366,
+    "max_supply": 23462665147.3,
+    "ath": 0.100535,
+    "ath_change_percentage": -24.84258,
+    "ath_date": "2024-12-04T10:13:57.264Z",
+    "atl": 0.03582727,
+    "atl_change_percentage": 110.89992,
+    "atl_date": "2025-02-03T05:01:48.626Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:44.020Z"
+  }
+]

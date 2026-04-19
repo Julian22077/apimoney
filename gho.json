@@ -1,0 +1,30 @@
+[
+    {
+    "id": "gho",
+    "symbol": "gho",
+    "name": "GHO",
+    "image": "https://coin-images.coingecko.com/coins/images/30663/large/gho-token-logo.png?1720517092",
+    "current_price": 0.999019,
+    "market_cap": 583416884,
+    "market_cap_rank": 97,
+    "fully_diluted_valuation": 583416884,
+    "total_volume": 40905979,
+    "high_24h": 0.999732,
+    "low_24h": 0.998893,
+    "price_change_24h": -0.000631274923289959,
+    "price_change_percentage_24h": -0.06315,
+    "market_cap_change_24h": -362760.530680776,
+    "market_cap_change_percentage_24h": -0.06214,
+    "circulating_supply": 584000000,
+    "total_supply": 584000000,
+    "max_supply": null,
+    "ath": 1.03,
+    "ath_change_percentage": -2.99052,
+    "ath_date": "2024-02-28T17:15:58.387Z",
+    "atl": 0.917065,
+    "atl_change_percentage": 8.9393,
+    "atl_date": "2023-10-24T04:41:04.568Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:48.435Z"
+  }
+]

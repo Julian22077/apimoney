@@ -1,0 +1,30 @@
+[
+    {
+    "id": "global-dollar",
+    "symbol": "usdg",
+    "name": "Global Dollar",
+    "image": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111",
+    "current_price": 0.999854,
+    "market_cap": 2273464862,
+    "market_cap_rank": 41,
+    "fully_diluted_valuation": 2273464862,
+    "total_volume": 55806683,
+    "high_24h": 1,
+    "low_24h": 0.999554,
+    "price_change_24h": 0.00000706,
+    "price_change_percentage_24h": 0.00071,
+    "market_cap_change_24h": -17482.5361795425,
+    "market_cap_change_percentage_24h": -0.00077,
+    "circulating_supply": 2273942034.32661,
+    "total_supply": 2273942034.32661,
+    "max_supply": null,
+    "ath": 1.65,
+    "ath_change_percentage": -39.57573,
+    "ath_date": "2025-01-30T00:11:05.728Z",
+    "atl": 0.907561,
+    "atl_change_percentage": 10.15555,
+    "atl_date": "2024-11-11T23:55:50.604Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:44.312Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+    "id": "hyperliquid",
+    "symbol": "hype",
+    "name": "Hyperliquid",
+    "image": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+    "current_price": 43.59,
+    "market_cap": 10389017839,
+    "market_cap_rank": 13,
+    "fully_diluted_valuation": 41936652066,
+    "total_volume": 182711310,
+    "high_24h": 45.43,
+    "low_24h": 43.41,
+    "price_change_24h": -1.37407588615268,
+    "price_change_percentage_24h": -3.05616,
+    "market_cap_change_24h": -318164616.649542,
+    "market_cap_change_percentage_24h": -2.97151,
+    "circulating_supply": 238385315.954141,
+    "total_supply": 962274028.954141,
+    "max_supply": 1000000000,
+    "ath": 59.3,
+    "ath_change_percentage": -26.50242,
+    "ath_date": "2025-09-18T03:30:30.650Z",
+    "atl": 3.81,
+    "atl_change_percentage": 1044.38763,
+    "atl_date": "2024-11-29T09:30:30.871Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:44.429Z"
+  }
+]

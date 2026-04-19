@@ -1,0 +1,30 @@
+[
+    {
+    "id": "superstate-short-duration-us-government-securities-fund-ustb",
+    "symbol": "ustb",
+    "name": "Superstate Short Duration U.S. Government Securities Fund (USTB)",
+    "image": "https://coin-images.coingecko.com/coins/images/35012/large/ustb.jpeg?1707102680",
+    "current_price": 11.05,
+    "market_cap": 863578822,
+    "market_cap_rank": 78,
+    "fully_diluted_valuation": 863578822,
+    "total_volume": 0,
+    "high_24h": 11.05,
+    "low_24h": 11.05,
+    "price_change_24h": 0,
+    "price_change_percentage_24h": 0,
+    "market_cap_change_24h": 943530,
+    "market_cap_change_percentage_24h": 0.10938,
+    "circulating_supply": 78120094.786979,
+    "total_supply": 78120094.786979,
+    "max_supply": null,
+    "ath": 11.05,
+    "ath_change_percentage": 0,
+    "ath_date": "2026-04-17T13:20:04.511Z",
+    "atl": 10.29,
+    "atl_change_percentage": 7.42169,
+    "atl_date": "2025-02-26T09:55:09.261Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:55:04.583Z"
+  }
+]

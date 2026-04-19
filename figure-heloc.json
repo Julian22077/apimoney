@@ -1,0 +1,30 @@
+[
+     {
+    "id": "figure-heloc",
+    "symbol": "figr_heloc",
+    "name": "Figure Heloc",
+    "image": "https://coin-images.coingecko.com/coins/images/68480/large/figure.png?1755863954",
+    "current_price": 1.035,
+    "market_cap": 17340515686,
+    "market_cap_rank": 9,
+    "fully_diluted_valuation": 17340515686,
+    "total_volume": 9185860,
+    "high_24h": 1.035,
+    "low_24h": 1.016,
+    "price_change_24h": 0.0133841,
+    "price_change_percentage_24h": 1.31021,
+    "market_cap_change_24h": 260172536,
+    "market_cap_change_percentage_24h": 1.52323,
+    "circulating_supply": 16755615680.947,
+    "total_supply": 16755615680.947,
+    "max_supply": null,
+    "ath": 1.049,
+    "ath_change_percentage": -1.35456,
+    "ath_date": "2026-03-09T17:00:25.937Z",
+    "atl": 0.155357,
+    "atl_change_percentage": 566.14981,
+    "atl_date": "2025-10-31T14:27:24.456Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:45.541Z"
+  }
+]

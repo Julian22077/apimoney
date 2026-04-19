@@ -1,0 +1,34 @@
+[
+    {
+    "id": "xdce-crowd-sale",
+    "symbol": "xdc",
+    "name": "XDC Network",
+    "image": "https://coin-images.coingecko.com/coins/images/2912/large/xdc-icon.png?1696503661",
+    "current_price": 0.02997941,
+    "market_cap": 597863705,
+    "market_cap_rank": 94,
+    "fully_diluted_valuation": 1141137488,
+    "total_volume": 20791819,
+    "high_24h": 0.03218364,
+    "low_24h": 0.02966923,
+    "price_change_24h": -0.000851428768918406,
+    "price_change_percentage_24h": -2.76161,
+    "market_cap_change_24h": -17001586.6721849,
+    "market_cap_change_percentage_24h": -2.76509,
+    "circulating_supply": 19942478754,
+    "total_supply": 38064043591.8,
+    "max_supply": null,
+    "ath": 0.192754,
+    "ath_change_percentage": -84.44342,
+    "ath_date": "2021-08-21T04:39:48.324Z",
+    "atl": 0.00039532,
+    "atl_change_percentage": 7485.27269,
+    "atl_date": "2019-07-22T00:00:00.000Z",
+    "roi": {
+      "times": 0.696921300131944,
+      "currency": "eth",
+      "percentage": 69.6921300131944
+    },
+    "last_updated": "2026-04-19T01:58:49.100Z"
+  }
+]

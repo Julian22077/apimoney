@@ -1,0 +1,30 @@
+[
+     {
+    "id": "monero",
+    "symbol": "xmr",
+    "name": "Monero",
+    "image": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460",
+    "current_price": 351.23,
+    "market_cap": 6479086382,
+    "market_cap_rank": 18,
+    "fully_diluted_valuation": 6479086382,
+    "total_volume": 105451286,
+    "high_24h": 351.28,
+    "low_24h": 342.81,
+    "price_change_24h": 4.51,
+    "price_change_percentage_24h": 1.3009,
+    "market_cap_change_24h": 80037898,
+    "market_cap_change_percentage_24h": 1.25078,
+    "circulating_supply": 18446744.0737096,
+    "total_supply": 18446744.0737096,
+    "max_supply": null,
+    "ath": 797.73,
+    "ath_change_percentage": -55.97133,
+    "ath_date": "2026-01-14T19:34:07.049Z",
+    "atl": 0.216177,
+    "atl_change_percentage": 162374.51892,
+    "atl_date": "2015-01-14T00:00:00.000Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:45.849Z"
+  }
+]

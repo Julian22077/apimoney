@@ -1,0 +1,30 @@
+[
+    {
+    "id": "memecore",
+    "symbol": "m",
+    "name": "MemeCore",
+    "image": "https://coin-images.coingecko.com/coins/images/53247/large/square-bg-transparent.png?1752637478",
+    "current_price": 3.63,
+    "market_cap": 6380464485,
+    "market_cap_rank": 19,
+    "fully_diluted_valuation": 19438011846,
+    "total_volume": 23870698,
+    "high_24h": 4.65,
+    "low_24h": 3.46,
+    "price_change_24h": -0.711207501007487,
+    "price_change_percentage_24h": -16.38954,
+    "market_cap_change_24h": -1241997981.38262,
+    "market_cap_change_percentage_24h": -16.29392,
+    "circulating_supply": 1759110766.13707,
+    "total_supply": 5359110765.75417,
+    "max_supply": 10000000000,
+    "ath": 4.65,
+    "ath_change_percentage": -22.75131,
+    "ath_date": "2026-04-18T06:15:24.842Z",
+    "atl": 0.04746135,
+    "atl_change_percentage": 7470.36181,
+    "atl_date": "2025-07-04T03:56:17.448Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:50.827Z"
+  }
+]

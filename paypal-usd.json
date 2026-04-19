@@ -1,0 +1,30 @@
+[
+    {
+    "id": "paypal-usd",
+    "symbol": "pyusd",
+    "name": "PayPal USD",
+    "image": "https://coin-images.coingecko.com/coins/images/31212/large/PYUSD_Token_Logo_2x.png?1765987788",
+    "current_price": 0.999851,
+    "market_cap": 4111729137,
+    "market_cap_rank": 27,
+    "fully_diluted_valuation": 4111729137,
+    "total_volume": 93299644,
+    "high_24h": 1,
+    "low_24h": 0.999527,
+    "price_change_24h": -0.00005585863032942,
+    "price_change_percentage_24h": -0.00559,
+    "market_cap_change_24h": 260661,
+    "market_cap_change_percentage_24h": 0.00634,
+    "circulating_supply": 4112304434.14914,
+    "total_supply": 4112304434.14914,
+    "max_supply": null,
+    "ath": 1.081,
+    "ath_change_percentage": -7.4973,
+    "ath_date": "2026-04-02T07:35:31.426Z",
+    "atl": 0.959426,
+    "atl_change_percentage": 4.2094,
+    "atl_date": "2024-12-05T22:31:13.430Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:42.953Z"
+  }
+]

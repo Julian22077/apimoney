@@ -1,0 +1,30 @@
+[
+    {
+    "id": "usdd",
+    "symbol": "usdd",
+    "name": "USDD",
+    "image": "https://coin-images.coingecko.com/coins/images/25380/large/UUSD.jpg?1696524513",
+    "current_price": 1,
+    "market_cap": 1482126218,
+    "market_cap_rank": 55,
+    "fully_diluted_valuation": 1482419081,
+    "total_volume": 23111069,
+    "high_24h": 1,
+    "low_24h": 1,
+    "price_change_24h": -0.000007898297064157,
+    "price_change_percentage_24h": -0.00079,
+    "market_cap_change_24h": -61593177.8723161,
+    "market_cap_change_percentage_24h": -3.98992,
+    "circulating_supply": 1481786035,
+    "total_supply": 1482078831,
+    "max_supply": null,
+    "ath": 1.052,
+    "ath_change_percentage": -4.90612,
+    "ath_date": "2023-10-23T22:45:25.398Z",
+    "atl": 0.928067,
+    "atl_change_percentage": 7.77407,
+    "atl_date": "2022-06-19T16:15:11.558Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:46.517Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+    "id": "whitebit",
+    "symbol": "wbt",
+    "name": "WhiteBIT Coin",
+    "image": "https://coin-images.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096",
+    "current_price": 54.95,
+    "market_cap": 11726306669,
+    "market_cap_rank": 11,
+    "fully_diluted_valuation": 17560853837,
+    "total_volume": 32371517,
+    "high_24h": 56.26,
+    "low_24h": 54.91,
+    "price_change_24h": -1.18839376443555,
+    "price_change_percentage_24h": -2.11691,
+    "market_cap_change_24h": -261952496.959339,
+    "market_cap_change_percentage_24h": -2.18508,
+    "circulating_supply": 213418274,
+    "total_supply": 319606780,
+    "max_supply": 400000000,
+    "ath": 64.11,
+    "ath_change_percentage": -14.34799,
+    "ath_date": "2025-12-10T20:16:13.582Z",
+    "atl": 3.06,
+    "atl_change_percentage": 1693.38168,
+    "atl_date": "2023-02-13T19:01:21.899Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:42.644Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+    "id": "gatechain-token",
+    "symbol": "gt",
+    "name": "Gate",
+    "image": "https://coin-images.coingecko.com/coins/images/8183/large/200X200.png?1735246724",
+    "current_price": 7.19,
+    "market_cap": 1133103428,
+    "market_cap_rank": 64,
+    "fully_diluted_valuation": 1133103428,
+    "total_volume": 2400546,
+    "high_24h": 7.46,
+    "low_24h": 7.16,
+    "price_change_24h": -0.110890602832633,
+    "price_change_percentage_24h": -1.51969,
+    "market_cap_change_24h": 7010448,
+    "market_cap_change_percentage_24h": 0.62255,
+    "circulating_supply": 115180573.048858,
+    "total_supply": 115180573.048858,
+    "max_supply": 300000000,
+    "ath": 25.38,
+    "ath_change_percentage": -71.7394,
+    "ath_date": "2025-01-26T00:00:00.000Z",
+    "atl": 0.25754,
+    "atl_change_percentage": 2685.20348,
+    "atl_date": "2020-03-13T02:18:02.481Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:46.355Z"
+  }
+]

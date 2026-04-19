@@ -1,0 +1,30 @@
+[
+    {
+    "id": "falcon-finance",
+    "symbol": "usdf",
+    "name": "Falcon USD",
+    "image": "https://coin-images.coingecko.com/coins/images/54558/large/ff_200_X_200.png?1740741076",
+    "current_price": 0.998765,
+    "market_cap": 1787220334,
+    "market_cap_rank": 45,
+    "fully_diluted_valuation": 1787220334,
+    "total_volume": 451185,
+    "high_24h": 0.999767,
+    "low_24h": 0.997381,
+    "price_change_24h": 0.00082268,
+    "price_change_percentage_24h": 0.08244,
+    "market_cap_change_24h": 1583344,
+    "market_cap_change_percentage_24h": 0.08867,
+    "circulating_supply": 1789430761.63486,
+    "total_supply": 1789430761.63486,
+    "max_supply": null,
+    "ath": 1.075,
+    "ath_change_percentage": -7.04006,
+    "ath_date": "2025-05-08T21:25:42.071Z",
+    "atl": 0.943422,
+    "atl_change_percentage": 5.88376,
+    "atl_date": "2025-07-08T10:16:34.749Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:45.158Z"
+  }
+]

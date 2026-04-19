@@ -1,0 +1,30 @@
+[
+    {
+    "id": "mantle",
+    "symbol": "mnt",
+    "name": "Mantle",
+    "image": "https://coin-images.coingecko.com/coins/images/30980/large/MNT_Token_Logo.png?1765516974",
+    "current_price": 0.657049,
+    "market_cap": 2153614950,
+    "market_cap_rank": 42,
+    "fully_diluted_valuation": 4086101959,
+    "total_volume": 32253866,
+    "high_24h": 0.686195,
+    "low_24h": 0.656881,
+    "price_change_24h": -0.0254186946212971,
+    "price_change_percentage_24h": -3.72453,
+    "market_cap_change_24h": -82056827.638803,
+    "market_cap_change_percentage_24h": -3.67034,
+    "circulating_supply": 3277944055.53684,
+    "total_supply": 6219316794.89,
+    "max_supply": 6219316794.89,
+    "ath": 2.86,
+    "ath_change_percentage": -76.97082,
+    "ath_date": "2025-10-09T01:04:46.659Z",
+    "atl": 0.307978,
+    "atl_change_percentage": 113.48829,
+    "atl_date": "2023-10-18T02:50:46.942Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:43.109Z"
+  }
+]

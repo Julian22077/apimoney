@@ -1,0 +1,30 @@
+ [
+ {
+    "id": "usd-coin",
+    "symbol": "usdc",
+    "name": "USDC",
+    "image": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602",
+    "current_price": 0.999815,
+    "market_cap": 78499942802,
+    "market_cap_rank": 6,
+    "fully_diluted_valuation": 78500658357,
+    "total_volume": 8602997357,
+    "high_24h": 1.001,
+    "low_24h": 0.998292,
+    "price_change_24h": 0.0000071,
+    "price_change_percentage_24h": 0.00071,
+    "market_cap_change_24h": -22545133.759079,
+    "market_cap_change_percentage_24h": -0.02871,
+    "circulating_supply": 78511189783.0832,
+    "total_supply": 78511905439.8163,
+    "max_supply": null,
+    "ath": 1.043,
+    "ath_change_percentage": -4.17896,
+    "ath_date": "2018-11-15T00:00:00.000Z",
+    "atl": 0.877647,
+    "atl_change_percentage": 13.92497,
+    "atl_date": "2023-03-11T08:02:13.981Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:46.799Z"
+  }
+]

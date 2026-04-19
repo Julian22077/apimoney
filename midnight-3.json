@@ -1,0 +1,30 @@
+[
+    {
+    "id": "midnight-3",
+    "symbol": "night",
+    "name": "Midnight",
+    "image": "https://coin-images.coingecko.com/coins/images/71015/large/midnight.png?1765193080",
+    "current_price": 0.03769225,
+    "market_cap": 625970302,
+    "market_cap_rank": 90,
+    "fully_diluted_valuation": 904614075,
+    "total_volume": 21467402,
+    "high_24h": 0.03871912,
+    "low_24h": 0.03672815,
+    "price_change_24h": 0.00080722,
+    "price_change_percentage_24h": 2.18847,
+    "market_cap_change_24h": 13561880,
+    "market_cap_change_percentage_24h": 2.21452,
+    "circulating_supply": 16607399400.635,
+    "total_supply": 24000000000,
+    "max_supply": 24000000000,
+    "ath": 0.118529,
+    "ath_change_percentage": -68.28551,
+    "ath_date": "2025-12-09T09:29:38.386Z",
+    "atl": 0.02378032,
+    "atl_change_percentage": 58.07554,
+    "atl_date": "2025-12-09T09:48:36.670Z",
+    "roi": null,
+    "last_updated": "2026-04-19T01:58:46.133Z"
+  }
+]
